@@ -1,0 +1,7 @@
+manifest:
+  projects:
+    - name: zephyr
+      path: zephyr
+      remote: https://github.com/zephyrproject-rtos/zephyr.git
+      revision: main
+
